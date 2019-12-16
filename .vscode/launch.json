@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MarioLevelPlayer",
+            "request": "launch",
+            "mainClass": "viewer.MarioLevelPlayer",
+            "projectName": "DagstuhlGAN"
+        }
+    ]
+}
